@@ -43,11 +43,11 @@ The project follows the SDLC model:
 4. Run the program using the command:
      sdlcproject.py
 
- Conclusion
+## Conclusion
 The Hostel Room Checker System is a simple and efficient application that demonstrates the use of SDLC in solving real-life problems using Python.
 
 
-  Author
+ ## Author
 Name: Imabong Bassey Umoh
 Matric Number: 24/14809  
 Department: Computer Science
